@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jbasoft
+- 👀 I’m interested in C# , Asp.net , Sql , .net Core , .net 5, Cryptocurrency, blockchain, trading crypto , video games ,  SEO , ...
+- 📫 jbasoft1@gmail.com - www.karizmatec.ir
