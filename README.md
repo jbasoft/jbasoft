@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @jbasoft
-- 👀 I’m interested in C# , Asp.net , Sql , .net Core , .net 5, Angular 2+, Cryptocurrency, blockchain, trading crypto , video games ,  SEO , ...
-- 📫 jbasoft1@gmail.com - www.karizmatec.ir
+- 👋 Hi, I’m Javad Bahman Abadi From Iran, Tehran.
+- I started programming in high school in 2003. I worked with vb5 after that csharp and now I'm working with .NET Core. I have experience managing software teams of 5-14 people. I started SEO in 2011.
+- I have worked in these fields: office automation, tourism, news services, social networks, technical inspection, and risk analysis of assets in the field of oil and gas and most insurance fields. 
+- 👀 My interests are blockchain, IOT, AI, and learning about the latest technologies.I started programming in high school in 2003. I worked with vb5 after that csharp and now I'm working with .NET Core. I have experience managing software teams of 5-14 people. I started SEO in 2011. I have worked in these fields: office automation, tourism, news services, social networks, technical inspection, and risk analysis of assets in the field of oil and gas and most insurance fields. My interests are blockchain, IOT, AI, and learning about the latest technologies. I’m interested in C# , Asp.net , Sql , .net Core , .net 5, Angular 2+, Cryptocurrency, blockchain, trading crypto , video games ,  SEO , ...
+- 📫 Bahmanabadi1988@gmail.com - www.karizmatec.ir
